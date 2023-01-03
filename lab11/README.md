@@ -1,5 +1,5 @@
 Kraków, 01.01.2023 r.
-# Labolatorium 11
+# Laboratorium 11
 ###### Bartosz Bartoszewski 	
 ###### Nr indeksu 406690
 
